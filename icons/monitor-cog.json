@@ -2,17 +2,21 @@
   "$schema": "../icon.schema.json",
   "contributors": [
     "karsa-mistmere",
-    "colebemis"
+    "colebemis",
+    "UsamaKhan"
   ],
+  "use-cases": [],
   "tags": [
     "tv",
+    "computer",
     "screen",
     "display",
+    "desktop",
+    "external display",
     "virtual machine",
     "vm",
     "executable",
     "settings",
-    "cog",
     "edit",
     "gear",
     "configuration",
@@ -24,7 +28,6 @@
   ],
   "categories": [
     "connectivity",
-    "devices",
-    "development"
+    "devices"
   ]
 }

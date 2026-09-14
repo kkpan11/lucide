@@ -4,8 +4,10 @@
     "colebemis",
     "csandman",
     "ericfennis",
-    "jguddas"
+    "jguddas",
+    "karsa-mistmere"
   ],
+  "use-cases": [],
   "tags": [
     "comment",
     "chat",
@@ -17,7 +19,6 @@
     "encrypted"
   ],
   "categories": [
-    "account",
     "social"
   ]
 }
